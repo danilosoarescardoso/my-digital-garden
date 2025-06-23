@@ -23,6 +23,7 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
 
+locale: pt-BR
 sass:
   sass_dir:          _sass
   style:            :compressed
