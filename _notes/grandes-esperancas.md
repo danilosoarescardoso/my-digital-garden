@@ -1,7 +1,6 @@
 ---
 title: Grandes Esperanças + Polaroid Now
 date: 2022-10-06 17:13:20
-tags: [2022, amenidades, literatura]
 ---
 
 ## Grandes Esperanças
@@ -41,3 +40,6 @@ Figura 1 - Amanda felizinha com a câmera que ganhou
 Acho que foi uma das coisas mais legais que já comprei na vida! Tirar uma foto e conseguir vê-la na hora dá uma sensação muito boa, como se conseguissemos ir criando frames da vida enquanto ela passa. Apesar dos filmes serem meio caros, valem a pena para termos pequenos momentos da nossa vida registrados pra sempre. Recomendo demais uma câmera dessas.
 
 Como tirar essas fotos é uma experiência de paciência - cada foto leva uns 15 minutos pra ficar pronta - isso acaba ajudando na percepção que tenho tido nos últimos tempos de que o trajeto e a caminhada são os melhores lugares para vivenciar a vida. Mais do que chegadas, é o caminho que leva a gente, e se soubermos aproveita-lo, a vida pode ser mais leve, mesmo que tudo esteja uma loucura ao seu redor.
+
+
+<b>tags:</b> [[2022]], [[amenidades]], [[literatura]]

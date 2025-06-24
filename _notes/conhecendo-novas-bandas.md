@@ -1,7 +1,6 @@
 ---
 title: "Conhecendo novas bandas"
 date: 2024-07-28 00:35:27
-tags: [musica, 2024]
 ---
 
 Sou muito apegado com músicas antigas. Não pela época ou algo do gênero, mas pura e simplesmente porque uma vez que escuto uma música e gosto, tendo a continuar ouvindo aquela banda, disco ou faixa dali pra frente. Com isso, acabo ouvindo poucas bandas novas conforme o tempo passa. Com isso, descobrir novos artistas se torna uma baita experiência, já que angariar novas faixas às minhas playlists recria esse processo eterno de contato com boas músicas.
@@ -28,3 +27,7 @@ Essa eu já tinha tido contato em outros anos mas só fui ouvir mesmo esse ano, 
 # Onde falar sobre músicas que estou ouvindo?
 
 Recentemente passou a ideia de criar uma newsletter sobre música na minha cabeça. Não como uma newsletter comum, enviando novas edições a quem lê, mas um lugar específico pra falar de música. Como o trabalho de criar e manter uma newsletter é um pouco cansativo, resolvi trazer esse texto pra cá, mas se no futuro sair uma newsletter sobre música, movo pra lá. 
+
+---
+
+<b>tags:</b> [[música]]

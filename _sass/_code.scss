@@ -11,6 +11,37 @@
   }
 }
 
+.lista-de-posts {
+  list-style: none;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.lista-de-posts li {
+  grid-template-columns: auto 1fr; /* CHAVE: 1ª coluna se ajusta ao conteúdo (auto), 2ª ocupa o resto (1fr) */
+  align-items: center;
+  gap: 15px; /* Espaçamento entre a data e o título (substitui o margin-right) */
+  margin-bottom: 12px;
+}
+
+.data {
+  color: #282726;
+  font-weight: bold;
+  /* Não precisamos de largura fixa aqui, o grid cuida disso */
+  justify-self: start; /* Alinha o conteúdo da data à esquerda da sua coluna */
+  padding-right: 1rem;
+
+}
+
+.titulo {
+  color: #333;
+  text-decoration: none;
+}
+
+.titulo:hover {
+  text-decoration: underline;
+}
+
 div.highlight {
   display: grid;
 }

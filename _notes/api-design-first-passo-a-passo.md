@@ -1,7 +1,7 @@
 ---
 title: "API Design First: passo-a-passo"
 date: 2023-05-17 17:41:45
-tags: [apis, 2023, tecnologia, desenvolvimento]
+
 ---
 
 "**API Design First**" é uma abordagem de desenvolvimento de software onde o design da API (Interface de Programação de Aplicativos) é feito antes da implementação do código.
@@ -39,3 +39,4 @@ Existem 7 fases, segundo James Higginbotham, para que o contrato de uma API seja
 
 Nos próximos textos aprofundarei em cada uma das etapas listadas acima.
 
+<b>tags:</b> [[APIs]], [[tecnologia]], [[desenvolvimento]]

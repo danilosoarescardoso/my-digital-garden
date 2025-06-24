@@ -1,7 +1,6 @@
 ---
 title: "API Design First: definindo as capacidades digitais"
 date: 2023-05-22 14:06:56
-tags: [api first, api design first, apis, 2023, tecnologia, desenvolvimento]
 ---
 
 Quando abordamos a visão de **API como Produto**, trazemos alguns conceitos que nos permitam focar em atender as dores do usuário. O primeiro passo nesse caminho, de acordo com a [literatura de James Higginbotham](https://www.amazon.com.br/Principles-Web-Design-James-Higginbotham/dp/0137355637), é o de definir quais são as capacidades digitais esperadas para esse produto. 
@@ -94,4 +93,4 @@ Para obtenção das job stories, acredito que um simples arquivo de texto ou for
 
 Depois de as **capacidades digitais** e **job stories** da sua API, chega a hora de definirmos as **Atividades e Passos**. O texto será disponibilizado em breve.
 
-
+<b>tags:</b> [[api first]], [[api design first]], [[APIS]], [[tecnologia]], [[desenvolvimento]]

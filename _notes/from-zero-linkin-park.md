@@ -1,7 +1,6 @@
 ---
 title: From Zero, Linkin Park
 date: 2024-11-27 01:10:07
-tags: [2024, musica]
 ---
 
 É 2024 e temos um álbum de inéditas do Linkin Park. Por mais que essa frase possa soar estranha, é a realidade e eu não poderia estar mais realizado. O LP é uma daquelas bandas que eu escuto desde a adolescência, procurando cada detalhe das letras e discos de tempos em tempos. Quando o antigo vocalista, Chester Bennington, faleceu, em 2017, me senti extremamente triste. Apesar de ter ouvido pouco a banda nos últimos álbuns, ainda assim havia uma grande admiração, respeito e interesse pelo seu trabalho.
@@ -41,3 +40,6 @@ continua...
 9. Stained
 10. IGYEIH
 11. Good Things Go
+
+
+<b>tags:</b> [[música]]

@@ -1,7 +1,6 @@
 ---
 title: "APIs para Pessoas de Negócio: Termos técnicos essenciais"
 date: 2023-01-26 11:21:43
-tags: [2023, apis, produtos digitais, tecnologia]
 categories:
 - [gallery]
 ---
@@ -223,3 +222,5 @@ CRUD é um acrônimo para as quatro operações básicas de **persistência de d
 * Delete (Exclusão): permite excluir dados do sistema de armazenamento.
 
 Sendo assim, CRUD se torna uma abordagem simples e amplamente utilizada para gerenciar dados em aplicativos e sistemas. Ele é muito usado em conjunto com APIs REST para fornecer operações CRUD através da web.
+
+<b>tags:</b>[[APIs]], [[produtos digitais]], [[tecnologia]]

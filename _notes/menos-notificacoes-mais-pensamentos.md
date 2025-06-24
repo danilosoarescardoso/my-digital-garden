@@ -1,7 +1,6 @@
 ---
 title: Menos notificações; mais pensamentos
 date: 2022-08-20 20:16:02
-tags: [amenidades, 2022]
 ---
 
 Esse ano decidi, depois de bastante terapia, dar um tempo nas redes sociais pra tentar me ouvir melhor. Ao abrir a mão de tantas notificações e pequenas distrações, fui atrás de entender melhor o que se passa na minha cabeça e do que realmente gosto. Não posso dizer que esse processo está concluído ou que já trago grandes vitórias, mas muita coisa mudou desde que me regrei na vida social e gostaria de discutir um pouco sobre isso.
@@ -23,3 +22,7 @@ Por fim, tenho aproveitado momentos de puro ócio também, deixando a mente diva
 > poder ouvir melhor o que seu corpo tem a dizer e respondê-lo à altura na medida do possível.
 
 Algo que também comecei a observar é como existem alguns detalhes de personalidade que devo valorizar. Apesar de estar me desconectando, continuo sendo uma pessoa com muitas ideias, que ama estar informada e de conhecer diferentes assuntos, contextos e situações. Por mais que levar uma vida mais leve e devagar seja algo necessário, não podemos abrir mão de tudo o que somos. Acredito que equilibrar todas essas ideias e percepções seja o desafio para os próximos tempos. Bora ver no que vai dar. 
+
+---
+
+<b>tags:</b> [[amenidades]], 2022

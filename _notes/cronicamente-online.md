@@ -1,7 +1,6 @@
 ---
 title: Cronicamente online
 date: 2025-01-08 16:20:37
-tags: [2025, amenidades]
 ---
 
 Esses dias vi a expressão **cronicamente online** em algum site na internet e achei ela curiosa e muito coerente com os dias de hoje. Sem perceber, estamos o tempo todo conectados e consumindo informação de alguma forma, nem que seja passivamente. Até alguns anos atrás eu me lembro que existia uma preocupação nas pessoas, na hora de comprar e configurar os seus celulares, relacionada à quantidade de notificações. Haviam técnicas e estratégias para chegassr menos avisos no celular, visando um uso mais consciente do aparelho e a economia de bateria, que era outro gargalo.
@@ -23,3 +22,5 @@ Não vou entrar nesse mérito aqui porque é um assunto que já está ficando ba
 Tenho visto, ultimamente, uma moda de haverem soluções paliativas para o problema dos cronicamente online. São aplicativos, na maciça maioria das vezes pagos, que tem como objetivo de fazer usar menos o celular, criando mecanismos de distração e controle. A ideia é ótima, mas é como curar ressaca com mais álcool. Na minha cabeça a melhor solução possível e ser radical e usar celulares daqueles antigos, os famosos *dumbphones*. O problema é que até mesmo as instituições estão ficando tão digitalizadas e amarradas com nossos celulares que já não conseguimos nos livrar deles sem ter problemas. Quer acessar sua conta do banco? Em alguns você precisa do celular, mesmo que seja no caixa eletrônico.
 
 Enquanto isso, vamos levando uma vida cada mais na rede, olhando para telas em que cores explodem, informações novas brotam a todo momento, [independente de estarmos prontos para isso ou não](https://www.nytimes.com/2024/12/26/science/speed-of-thought.html). Isso sem falar nas crianças conectadas cada vez mais cedo e o advento de conteúdo gerado por IA. Daqui uns anos farei uma nova versão desse texto. Veremos o que mudou de lá pra cá.
+
+<b>tags:</b> 2025, [[amenidades]]

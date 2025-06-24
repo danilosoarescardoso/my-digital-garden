@@ -1,7 +1,6 @@
 ---
 title: Dev Leaders, memes e pastores censores
 date: 2022-09-25 19:47:04
-tags: [newsletter, 2022, amenidades, eventos]
 ---
 
 Estava comentando com Amanda, minha esposa, como costumo ler e ver muita coisa durante a semana e que gostaria de não deixá-las passar tão rápido. Às vezes dá vontade de pegar aquele assunto e dar uma aprofundada, olhar por outros lados e conversar com mais pessoas sobre isso. Aí ela me deu a brilhante ideia de escrever isso nesse site, trazendo os assuntos que ficaram na minha cabeça durante a semana.
@@ -46,3 +45,6 @@ Sei que a notícia é meio antiga, mas só vi isso no mercado ontem. A Netflix l
 
 No dia 24 de setembro rolou a primeira Conferência Dev Leaders, realizada pela Alura com patrocínio de várias empresas, como Bradesco e Oracle. Foi um evento muito bacana, contando com palestras de muita cabeça pensante do mercado de software brasileiro, como Maurício Aniche, Roberta Arcoverde, Maurício Linhares e Cristiano Gomes. Já aguardando as próximas edições!
 
+---
+
+<b>tags:</b> newsletter, 2022, [[amenidades]], eventos

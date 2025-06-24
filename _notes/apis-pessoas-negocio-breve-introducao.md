@@ -1,7 +1,6 @@
 ---
 title: "APIs para Pessoas de Negócio: uma breve introdução"
 date: 2022-11-01 13:56:54
-tags: [tecnologia, apis, 2022]
 ---
 
 Faz um tempo que o termo APIs está em constante crescente, seja na internet, eventos presenciais ou prospectos do mercado. Uma rápida busca no [Google Trends](https://trends.google.com/trends/explore?date=all&geo=BR&q=%2Fm%2F0z5n) mostra como o assunto ganhou relevância e parece que não vai sair de moda em breve. Algumas iniciativas como o [Open Finance](https://startupi.com.br/open-finance-apis/) sendo implementado em escala globa ajudam a explicar o motivo de tantas empresas e pessoas estarem disseminando conteúdo sobre APIs.
@@ -80,3 +79,5 @@ Minha expectativa é poder trazer mais textos, exemplos e vídeos que te ajudem 
 1. **Entenda os contratos REST.** Acredito que o primeiro passo num aprofundamento do que são APIs é entender o famoso contrato de uma API. Ele é uma descrição dos campos que compõe a API, de como um desenvolvedor pode usa-la e sobre quais formas de autenticação existem para ela. A partir do contrato haverão vários desdobramentos para entender melhor os conceitos de APIs.
 2. **Conheça os verbos HTTP.** Para uma API ser operacional, existem verbos que definem ações para cada operação feita na API. Na hora de obter um dado usamos um GET, e na hora de criar um novo dado usamos um POST. Apesar de ser intuitivo, vale a pena [conhecer os principais verbos HTTP](https://www.devmedia.com.br/servicos-restful-verbos-http/37103) para ter uma ideia do que pode ser feito com uma API. 
 3. **Autenticação e autorização.** APIs são seguras? Sim! Existem diferentes formas de autenticar e autorizar usuários e acessos. Como é um assunto um pouco complexo, acredito que valha a pena ler algum artigo introdutório que mostre alguns [meios de autorizar usuários](https://www.bry.com.br/blog/seguranca-de-api/), apenas para entender quas mecanismos de segurança existem.
+
+<b>tags:</b> [[tecnologia]], [[APIs]]

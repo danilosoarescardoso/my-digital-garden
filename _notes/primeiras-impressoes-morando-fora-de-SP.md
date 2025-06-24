@@ -1,7 +1,6 @@
 ---
 title: Primeiras impressões morando fora de SP
 date: 2019-03-19 22:44:28
-tags: [2019, vida pessoal, carreira, Londrina]
 ---
 
 <img src="{{ site.baseurl }}/assets/photo-1502920514313-52581002a659.jpeg"/>
@@ -58,3 +57,5 @@ A reserva foi essencial para o momento em que precisei me realocar. Por isso, te
 
 
 Enfim, foram essas as ideias que tive para um primeiro texto aqui em terras londrinas. Espero que tenha gostado e que as dicas possam ser úteis a você. Caso tenha dúvidas, fale comigo! 
+
+<b>tags:</b> [[amenidades]]
