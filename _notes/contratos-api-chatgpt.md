@@ -1,7 +1,6 @@
 ---
 title: Estudando contratos de API com ChatGPT
 date: 2023-03-15 09:37:05
-tags: [inteligência artificial, chatGPT, apis, 2023]
 ---
 
 Estava estudando melhores práticas para documentações de APIs hoje quando me surgiu uma ideia: 
@@ -188,3 +187,5 @@ Como falei, nem tudo são flores. Existem alguns problemas não só nesse contra
 Esses são apenas alguns exemplos que mostram que precisamos conhecer um assunto antes de usar o ChatGPT para nos apoiar. Se eu não conhecesse como contratos de API devem ser feitos, poderia divulgar uma informação errada. Além disso, apesar de a ferramenta ser generativa, ele funciona de acordo com nossos inputs. Se não especificarmos o que queremos, ela vai gerar outputs com erros.
 
 Mesmo assim, acredito que o ChatGPT continua sendo uma ótima ferramenta para auxiliar nos estudos de como um bom contrato de API deve ser escrito. 
+
+tags: [[inteligência artificial]], [[arquitetura]], [[APIs]]

@@ -1,7 +1,6 @@
 ---
 title: Trabalhando com campo de data e hora em forms com HTML5
 date: 2020-06-26 18:52:01
-tags: [html5, frontend, vuejs, javascript]
 ---
 
 **tl;dr:** a forma mais fácil de trabalhar com campos de data/hora em forms é através de bibliotecas de datepicker. O suporte do HTML5 a campos de data não permite uma rápida implementação cross-browser.
@@ -19,3 +18,5 @@ A implementação dela é bem simples, como campos de data e hora deveriam ser. 
 <img src="{{ site.baseurl }}/assets/0.png"/>
 
 Figura 1 - Datepicker com vue-datetime
+
+tags: [[tecnologia]]

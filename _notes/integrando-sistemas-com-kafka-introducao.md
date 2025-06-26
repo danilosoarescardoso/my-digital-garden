@@ -1,7 +1,6 @@
 ---
 title: "Integrando sistemas com Kafka: uma breve introdução"
 date: 2023-10-02 14:31:37
-tags: [kafka, 2023]
 ---
 
 Quando falamos sobre integração de sistemas, existem diferentes tecnologias e padrões que podem ser adotados. Isso vale tanto para sistemas pequenos, como aqueles pessoais e de startups, até em casos de arquiteturas empresariais, com milhões de requisições por segundo. De forma muito simplificada, existem dois principais mecanismos para integrações serem feitas: síncronas, por meio de APIs, ou assíncronas, por meio de mensagens e eventos. Existem outros modelos, mas estes dois são os mais difundidos.
@@ -47,3 +46,5 @@ Seguem abaixo alguns links para auxiliar no entendimento de como o Kafka pode te
 * [The Apache Kafka Handbook – How to Get Started Using Kafka. FreeCodeCamp](https://www.freecodecamp.org/news/apache-kafka-handbook/)
 * [O que é o Apache Kafka no Azure HDInsight. Microsoft](https://learn.microsoft.com/pt-br/azure/hdinsight/kafka/apache-kafka-introduction)
 * [Apache Kafka® Quick Start, Confluent Developer](https://developer.confluent.io/quickstart/kafka-on-confluent-cloud/)
+
+tags: [[arquitetura]], [[tecnologia]]

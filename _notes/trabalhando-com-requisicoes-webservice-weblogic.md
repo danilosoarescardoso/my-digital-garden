@@ -1,7 +1,6 @@
 ---
 title: Testando requisições a Webservices SOAP no Weblogic
 date: 2020-04-26 02:02:27
-tags: [weblogic, webservices, SOAP, xml, java]
 ---
 
 Sempre que trabalho com uma tecnologia, gosto de ler mais sobre ela e fazer experimentos. Quando trabalhamos com desenvolvimento, isso acaba sendo muito comum, aprender com a prática e o dia-a-dia. Um dos exemplos desse aprendizado que adquiri nos últimos meses foi trabalhando com algumas tecnologias novas na carreira.
@@ -45,3 +44,5 @@ Imagem 3 - Retorno do endpoint
 Vale ressaltar que existem outras aplicações que trazem o mesmo tipo de funcionalidade, como o SoapUI. A diferença é que com essa ferramenta você ganha um pouco mais de agilidade por já ser um recurso implementado no Weblogic, além de ter mais uma opção para as horas em que múltiplos testes são necessários.
 
 Caso tenha alguma sugestão ou dúvida, só me enviar nos comentários ou por mensagem! 
+
+tags: [[arquitetura]], [[tecnologia]]

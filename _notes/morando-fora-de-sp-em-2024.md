@@ -14,4 +14,4 @@ Hoje, morando em Londrina, eu mal me preocupo com quanto de bateria tem, afinal,
 
 ---
 
-<b>tags:</b> [[amenidades]], 2024
+<b>tags:</b> [[amenidades]]

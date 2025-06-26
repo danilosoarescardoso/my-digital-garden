@@ -23,4 +23,4 @@ Tenho visto, ultimamente, uma moda de haverem soluções paliativas para o probl
 
 Enquanto isso, vamos levando uma vida cada mais na rede, olhando para telas em que cores explodem, informações novas brotam a todo momento, [independente de estarmos prontos para isso ou não](https://www.nytimes.com/2024/12/26/science/speed-of-thought.html). Isso sem falar nas crianças conectadas cada vez mais cedo e o advento de conteúdo gerado por IA. Daqui uns anos farei uma nova versão desse texto. Veremos o que mudou de lá pra cá.
 
-<b>tags:</b> 2025, [[amenidades]]
+<b>tags:</b> [[amenidades]]

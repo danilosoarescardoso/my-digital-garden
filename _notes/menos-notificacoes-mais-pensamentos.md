@@ -25,4 +25,4 @@ Algo que também comecei a observar é como existem alguns detalhes de personali
 
 ---
 
-<b>tags:</b> [[amenidades]], 2022
+<b>tags:</b> [[amenidades]]

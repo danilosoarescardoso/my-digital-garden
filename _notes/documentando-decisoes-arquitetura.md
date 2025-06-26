@@ -1,7 +1,7 @@
 ---
 title: Documentando decisões de arquitetura com ADRs
 date: 2022-01-18 10:57:54
-tags: [arquitetura, desenvolvimento]
+
 ---
 
 Dentro da área de tecnologia a **informação textual** é um recurso muito importante. É com ela que transferimos conhecimento entre os times, seja no aspecto técnico ou de negócios. Saber os padrões de projeto utilizados pela equipe ou os requisitos funcionais que o time de negócios levantou para certa funcionalidade são casos de uso em que documentos de texto são essenciais para uma comunicação efetiva.
@@ -37,3 +37,5 @@ Caso queira conhecer mais sobre o conhecimento, recomendo alguns conteúdos que 
 * [Architectural Decision Records na Conta Azul](https://engineering.contaazul.com/architectural-decision-records-na-conta-azul-cfbb0f71e8ab)
 * [Documenting Architecture Decisions, Michael Nygard](https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions) 
 *  [Architecture Decision Records in Action, Michael Keeling](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497746.pdf)
+
+tags: [[arquitetura]], [[tecnologia]]

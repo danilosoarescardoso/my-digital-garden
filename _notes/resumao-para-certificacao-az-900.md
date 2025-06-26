@@ -1,7 +1,6 @@
 ---
 title: Resumão para Certificação AZ-900
 date: 2020-09-12 20:18:55
-tags:
 ---
 
 Durante a pandemia, a Microsoft disponibilizou inúmeros vouchers para a certificação AZ-900. Segundo a própria Microsoft,
@@ -257,3 +256,5 @@ ___
 ### 4. Azure Pricing, Service Level Agreements, and Lifecycles (20-25%)
 
 * atualizando...
+
+tags: [[tecnologia]], [[arquitetura]]

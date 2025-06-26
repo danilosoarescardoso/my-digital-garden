@@ -1,7 +1,6 @@
 ---
 title: "Usando Cache em APIs: Exemplo Prático"
 date: 2023-04-18 12:18:24
-tags: [apis, cache, arquitetura]
 ---
 
 Recentemente fiz dois posts sobre [quando usar](https://danilocardoso.dev/blog/quando-usar-cache-apis/) e [quando não usar](https://danilocardoso.dev/blog/quando-nao-usar-cache-apis/) cache em APIs. No texto de hoje mostro de forma simples como o cache pode ser usado em uma API. O link para o repositório pode ser [encontrado aqui](https://github.com/danilosoarescardoso/cache-python-example).
@@ -98,3 +97,5 @@ Imagem 4 - Resposta com cache
 ## Considerações
 
 Esse foi um exemplo bem simples de como cache pode ser usado em APIs. Em sistemas distribuídos, onde há uma maior complexidade técnica, pode ser necessário utilizar camadas adicionais de cache ou outras técnicas. Por isso vale a pena estudar a fundo as ferramentas que existem além do Redis e entender, no caso do Redis, como se aplicam os diferentes tipos de cache que ele implementa.
+
+tags: [[APIs]], [[arquitetura]]

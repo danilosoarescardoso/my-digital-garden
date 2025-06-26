@@ -1,7 +1,6 @@
 ---
 title: "Centralizando governança de políticas com Open Policy Agent"
 date: 2022-11-28 21:27:54
-tags: [tecnologia, segurança, infra, 2022]
 ---
 
 No contexto de sistemas distribuídos, precisamos de regras para uma infinidade de casos:
@@ -93,3 +92,5 @@ Para uma ferramenta desse tipo fazer sentido, é necessário que as responsabili
 
 ### Pode não valer a pena em alguns casos
 Por mais que governar todas as políticas a partir de um único ponto seja uma ideia interessante, pode ser que não faça sentido para seu contexto usa-la em todas as ferramentas. A melhor forma de avaliar se vale a pena ou não usar o OPA em cada contexto é rodar MVPs, tendo sempre em mente a questão dos processos e maturidade técnica. Havendo viabilidade técnica para uma determinada ferramenta, como o Terraform, aí deve-se pensar nos processos e próximos passos. 
+
+tags: [[tecnologia]], [[arquitetura]]

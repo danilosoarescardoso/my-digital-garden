@@ -1,7 +1,6 @@
 ---
 title: Pandemia, Inovação e API-First em 2021
 date: 2021-11-08 19:35:57
-tags: [APIs, microserviços, pandemia, inovação]
 ---
 
 Dentro da área de arquitetura, plataformas e ecossistemas é extremamente importante entender os caminhos que o mercado trilha, seja por meio de estudos sobre o futuro do setor, como os relatórios da Gartner ou pelas pesquisas de tendências atuais, compilados por muitas fornecedoras de serviços e ferramentas. Conhecer o que está em alta e como o mercado reage a cada nova ferramenta nos ajuda a entender como a área de tecnologia evolui ao longo de cada ano.
@@ -43,3 +42,5 @@ Das empresas que são consideradas líderes em API-first na pesquisa, 9% consegu
 ## Finalizando...
 
 Os insights e informações que trouxe nesse texto visam mostrar como a tal [economia das APIs](https://venturebeat.com/2021/05/17/how-the-api-economy-is-powering-digital-transformation/) pode potencializar resultados na sua empresa. Vale a pena ler o [relatório completo](https://www.postman.com/state-of-api) para mais perspectivas. Não é um processo fácil desenhar uma arquitetura que esteja preparada para lidar com APIs privadas e públicas, segurança, confiabilidade e disponibilidade. Mas uma vez que essas tecnologias são trazidas pra perto, a chance de promover inovação e incremento de valor aos seus produtos se torna cada vez maior.
+
+tags: [[tecnologia]], [[APIs]]

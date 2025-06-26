@@ -1,7 +1,6 @@
 ---
 title: Validando APIs REST com Open Policy Agent
 date: 2022-12-20 17:21:27
-tags: [Open APIs, API REST, tecnologia, backend, 2022]
 ---
 
 O Open Policy Agent, que [citei no blog há algumas semanas atrás](https://danilocardoso.dev/blog/centralizando-governanca-com-opa/), é uma ferramenta que permite a criação de políticas de forma centralizada, afim de gerenciar e validar diferentes aspectos de segurança das suas aplicações, seja de infra como arquitetura. Uma das validações que o OPA permite realizar é a de **contratos de API**.
@@ -487,3 +486,6 @@ Vale a pena citar também que ambas ferramentas usam a linguagem de alto nível 
 
 
 Espero que tenha gostado desse artigo e caso tenha alguma dúvida, entre em contato comigo pelos links que aparecem aqui no blog. Abraços!
+
+
+tags: [[tecnologia]], [[arquitetura]]

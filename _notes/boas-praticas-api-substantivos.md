@@ -1,7 +1,7 @@
 ---
 title: "Boas práticas no design de APIs: use substantivos em vez de verbos"
 date: 2022-02-08 16:56:34
-tags: [open apis, apis, api first]
+
 ---
 
 Um dos grandes trunfos do padrão REST é permitir grande flexibilidade na hora de implementar uma API. Logo, é necessário definir padrões e boas práticas para que diferentes desenvolvedores possam trabalhar em uma mesma API e entender o que está acontecendo. Não só o time técnico, mas até para pessoas leigas fica claro o que está feito quando adotamos essas práticas. Pensando nisso, seguem algumas ideias para que APIs sejam mais claras:
@@ -40,5 +40,6 @@ Juntando os verbos HTTP que trazem a funcionalidade de CRUD com as duas URLs bas
 | /clubes/  |  criar um novo clube | listar clubes   | atualizar lista de clubes   | deletar todos os clubes   |
 | /clubes/palmeiras  | Erro  | mostrar dados do clube Palmeiras   | caso o clube Palmeiras exista, o atualiza  | apagar clube Palmeiras   |
 
+---
 
-
+tags: [[tecnologia]], [[APIs]]

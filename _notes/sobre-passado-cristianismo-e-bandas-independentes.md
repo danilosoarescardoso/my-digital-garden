@@ -13,4 +13,4 @@ Quando coloquei esse EP pra tocar, lembrei de como era fã desses estilos mais a
 
 É muito legal perceber como que, apesar de o tempo mudar nosso gosto, existem sons e ideias que ainda nos acompanham, mesmo que com um vínculo mais fraco. Olhar a vida após algumas décadas é perceber como somos seres extremamente complexos, que vão acumulando diferentes camadas de conhecimentos, experiências, sentimentos, observações, que vão nos levando para algum lugar que hoje chamamos de futuro. A vida é boa, muito boa.
 
-<b>tags:</b> [[música]], [[amenidades]], [[2025]]
+<b>tags:</b> [[música]], [[amenidades]]

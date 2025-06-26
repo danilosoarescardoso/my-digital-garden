@@ -1,7 +1,6 @@
 ---
 title: Quando usar cache em suas APIs
 date: 2023-04-13 11:49:29
-tags: [2023, arquitetura, apis]
 ---
 
 De forma simplificada, **cache** é um recurso que diminui a necessidade de processamento computacional ao deixar informações estáticas **mais perto** dos consumidores. Imagine, por exemplo, que você tem uma loja online. Seu site utiliza API de terceiros para obter informações sobre os produtos, como descrições, preços e avaliações. Os clientes que visitam o seu site precisam ter acesso rápido e preciso a essas informações para tomar decisões de compra.
@@ -29,3 +28,5 @@ Existem alguns cenários onde utilizar cache em APIs é indicado, como por exemp
 * **Dados estáticos ou pouco voláteis**: Se os dados retornados pela API não mudam com frequência ou são estáticos, o cache é uma boa opção para armazenar essas informações e reduzir a quantidade de requisições ao servidor.
 
 * **Limitação de taxa (rate limiting)**: Se a API possui limitações de taxa de requisições, o uso de cache pode ajudar a evitar exceder esses limites, armazenando os resultados das requisições anteriores e reduzindo o número de chamadas à API.
+
+tags: [[APIs]], [[arquitetura]]

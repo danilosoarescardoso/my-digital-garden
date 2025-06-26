@@ -1,7 +1,6 @@
 ---
 title: "Integrando sistemas com Kafka: principais conceitos"
 date: 2023-12-07 17:58:56
-tags: [kafka, arquitetura, 2023]
 ---
 
 Quando trabalhamos com Kafka, existem alguns conceitos e palavras-chave que acabam aparecendo com bastante frequência. Antes de falar sobre cada um deles, vale a pena visualizar como a arquitetura do Kafka costuma funcionar:
@@ -100,3 +99,4 @@ Os consumidores de um mesmo grupo começam a consumir as mensagens a partir do m
 De modo geral, acredito que esses são os principais componentes e palavras-chave que precisamos conhecer ao trabalhar com Kafka, ou pelo menos no começo das entregas com essa tecnologia. Conforme houver o aprofundamento na tecnologia, é natural que hajam novos conceitos para descobrir e ler sobre. No próximo texto planejo falar sobre os Padrões de Arquitetura que envolvem o uso de eventos, como CQRS e SAGA, por exemplo. 
 
 
+tags: [[tecnologia]], [[arquitetura]]

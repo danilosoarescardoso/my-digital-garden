@@ -93,4 +93,4 @@ Para obtenção das job stories, acredito que um simples arquivo de texto ou for
 
 Depois de as **capacidades digitais** e **job stories** da sua API, chega a hora de definirmos as **Atividades e Passos**. O texto será disponibilizado em breve.
 
-<b>tags:</b> [[api first]], [[api design first]], [[APIS]], [[tecnologia]], [[desenvolvimento]]
+<b>tags:</b> [[APIS]], [[tecnologia]], [[arquitetura]]

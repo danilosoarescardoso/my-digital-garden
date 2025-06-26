@@ -30,4 +30,4 @@ Recentemente passou a ideia de criar uma newsletter sobre música na minha cabe�
 
 ---
 
-<b>tags:</b> [[música]]
+<b>tags:</b> [[música]], [[amenidades]]

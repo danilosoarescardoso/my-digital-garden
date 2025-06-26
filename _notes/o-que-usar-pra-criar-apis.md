@@ -1,7 +1,6 @@
 ---
 title: "APIs para Pessoas de Negócio: o que é necessário para construir APIs"
 date: 2022-11-22 15:04:17
-tags: [2022, tecnologia, apis]
 ---
 
 Recentemente fiz [[APIs para Pessoas de Negócio: uma breve introdução|um texto introdutório]] sobre como APIs podem ser entendidas por pessoas de negócio. No texto de hoje a ideia é trazer o que uma pessoa, equipe e empresa precisam ter para poderem criar suas primeiras APIs. Vale ressaltar que as ideias que trarei aqui são baseadas na experiência que tive em diferentes empresas e na literatura técnica e organizacional que tenho consumido nos últimos anos. Detalhes adicionais ou casos de uso diferentes precisam ser analisados com tempo e dedicação.
@@ -71,4 +70,7 @@ Apesar de não ser uma receita infalível, costumeiramente as iniciativas de API
 ⁴ Um *pipeline* de DevOps é um conjunto de processos e ferramentas automatizados que permite que desenvolvedores e profissionais de operações colaborem na criação e implementação de código em um ambiente de produção. Referência: [Pipeline de DevOps](https://www.atlassian.com/br/devops/devops-tools/devops-pipeline)
 
 ⁵ A *monetização* de uma API ocorre quando as empresas geram lucro com suas interfaces de programação de aplicações (APIs). As APIs são a base do que é considerado atualmente como a mais avançada iteração do desenvolvimento de negócios. Referência: [O que é monetização de APIs?](https://www.redhat.com/pt-br/topics/api/what-is-api-monetization)
+
+
+tags: [[tecnologia]], [[arquitetura]], [[APIs]]
 

@@ -1,7 +1,7 @@
 ---
 title: Autenticando APIs com HMAC
 date: 2023-08-06 19:10:53
-tags: [2023, apis, segurança, hmac, arquitetura]
+
 ---
 
 Recentemente estava estudando sobre como funciona a autenticação de APIs usando HMAC e resolvi fazer um texto explicando sobre como esse modelo de segurança para APIs opera, trazendo seus prós, contras e indicações de uso.
@@ -41,3 +41,4 @@ Apesar desses pontos, existem algumas características quem podem fazer o HMAC s
 * **Garantia de integridade do payload**. Podem haver casos de uso específicos onde garantir a não alteração do payload durante a sua transmissão seja importante. No meu ponto de vista, isso pode ser adicionado como camada adicional de segurança em um fluxo OAuth 2.0 desde que haja o conhecido risco de um payload ser modificado.
 
 
+tags: [[arquitetura]], [[tecnologia]]

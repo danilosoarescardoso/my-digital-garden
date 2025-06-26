@@ -1,7 +1,6 @@
 ---
 title: Evitando problemas de CDN com links do Facebook
 date: 2018-11-24 21:07:42
-tags: [facebook, CDN, redes sociais]
 
 ---
 
@@ -20,3 +19,5 @@ De uns tempos para cá a rede social passou a colocar um ID em cada link clicado
 O problema dessa atualização do Facebook é que ela força o usuário a bater no servidor e não na CDN. É como se a CDN não tivesse aquela página pronta em seu serviço, mostrando ao usuário a página que está no servidor.
 
 Existem uma série de métodos para se livrar desse problema. Algumas passam por configurações na CDN e outros em adaptações do seu .htacess, caso use Apache. A solução para esse problema vai depender do seu time de infra-estrutura. O importante é evitar que esses acessos continuem vindo diretamente ao seu servidor, visto que isso pode sobrecarregar sua aplicação. 
+
+tags: [[tecnologia]]

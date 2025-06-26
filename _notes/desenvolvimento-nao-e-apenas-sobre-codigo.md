@@ -1,7 +1,6 @@
 ---
 title: Desenvolvimento não é apenas sobre código
 date: 2019-11-24 16:27:04
-tags: [soft skills, desenvolvimento]
 ---
 
 Quem trabalha com desenvolvimento geralmente passa por momentos em que se sente frustrado. Isso pode ocorrer porque um determinado programa não funcionou ou, o que acaba sendo pior, com as escolhas que foram feitas na carreira e por não perceber uma solidez no que faz. Quando cito isso, não estou me pautando apenas pela experiência própria, mas sim pela convivência com diversos programadores ao longo desses anos. E aí, como lidar com as frustrações na vida de desenvolvedor?
@@ -31,3 +30,5 @@ O que vai ajudar a você se estressar menos é focar em pontos específicos de e
 ---
 
 Existem dois caras com quem falo muito sobre isso durante a semana que são o [Gustavo](https://www.linkedin.com/in/gustavobcx/) e o [Flor](https://www.linkedin.com/in/carlos-gabriel-goiani-flor-4a2ab5150). A gente sempre bate papo sobre tecnologias que estão no ar e o que vale a pena aprender no momento. E foi durante conversas assim que percebi como os assuntos abordados neste texto são importantes de se falar. Acredito que valha muito a pena falar sobre isso com desenvolvedores de sua confiança porque ajuda a perceber no que estamos indo bem e no que podemos melhorar. Não só tecnicamente mas nas soft skills também.
+
+tags: [[soft skill]]

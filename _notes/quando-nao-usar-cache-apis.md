@@ -1,7 +1,7 @@
 ---
 title: Quando não usar cache em suas APIs
 date: 2023-04-15 12:27:00
-tags: [2023, arquitetura, apis]
+
 ---
 
 Dias atrás fiz um [post falando sobre quando devemos utilizar cache em APIs](https://danilocardoso.dev/blog/quando-usar-cache-apis/). No texto de hoje apresento alguns casos onde cache não deve ser utilizado:
@@ -19,3 +19,5 @@ Dias atrás fiz um [post falando sobre quando devemos utilizar cache em APIs](ht
 Ao projetar e implementar APIs, é importante avaliar cuidadosamente as necessidades de desempenho e escalabilidade e, em seguida, decidir se o uso de cache é apropriado. Em alguns casos, pode ser mais benéfico otimizar a própria API ou a infraestrutura relacionada para melhorar o desempenho sem recorrer ao cache.
 
 Como é comum dizer em arquitetura, tudo vai depender dos trade-offs escolhidos.
+
+tags: [[APIs]], [[arquitetura]]

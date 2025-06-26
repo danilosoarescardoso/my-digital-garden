@@ -1,7 +1,6 @@
 ---
 title: Criando usuários de teste no Facebook
 date: 2018-11-17 21:06:32
-tags: [redes sociais, facebook, login]
 ---
 
 <img src="{{ site.baseurl }}/assets/facebook-login-1521224093933_615x300.jpg"/>
@@ -24,3 +23,4 @@ Esse recurso me ajudou muito, inclusive a encontrar inconsistências no que eu h
 
 Apesar disso, creio que a ferramenta seja ótima para testes unitários de acesso. Enfim, se quiser saber mais sobre isso, [veja a seguinte documentação](https://developers.facebook.com/docs/apps/test-users/?locale=pt_BR). Boa sorte!
 
+tags: [[tecnologia]]

@@ -47,4 +47,4 @@ No dia 24 de setembro rolou a primeira Conferência Dev Leaders, realizada pela 
 
 ---
 
-<b>tags:</b> newsletter, 2022, [[amenidades]], eventos
+<b>tags:</b> [[amenidades]], [[tecnologia]]
