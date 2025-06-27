@@ -11,3 +11,5 @@ Atualmente sou Arquiteto de Software no Banco Votorantim, atuando no setor de Ca
 
 Tenho dois cachorros e dois gatos e moro no Paraná atualmente.
 
+Para falar comigo use essas redes sociais:
+
