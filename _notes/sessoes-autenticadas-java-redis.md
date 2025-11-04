@@ -84,6 +84,7 @@ public SecurityFilterChain securityFilterChain(HttpSecurity http, SessionRegistr
 }
 ```
 
+---
 
 No código acima, defini um filtro em que toda requisição HTTP passe por ele. Foram criados também dois *handlers*, um pra quando há sessão autenticada e outro para o inverso, que trazem logs do processo. No restante do código são definidas quais URLs podem ser acessadas sem autenticação, e para a autenticação, quais os parâmetros necessários. Na parte de SessionManagement, definimos uma sessão como o máximo possível simultaneamente.
 
@@ -113,6 +114,8 @@ public class SessionConfig {
 
 ```
 
+---
 
+Link para o [repositório no Github](https://github.com/danilosoarescardoso/spring-form-login-sample).
 
 <b>tags:</b> [[desenvolvimento]], [[tecnologia]], [[arquitetura]]
